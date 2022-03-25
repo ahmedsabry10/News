@@ -1,0 +1,136 @@
+{
+  "status":"ok",
+  "totalResults":10,
+  "articles":[
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Probe launched into Afghan interpreter data breach",
+      "description":"More than 250 people seeking relocation to the UK were mistakenly copied in to an email from the MoD.",
+      "url":"http://www.bbc.co.uk/news/uk-58629592",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt":"2021-09-20T21:07:26.5799284Z",
+      "content":"Defence Secretary Ben Wallace has ordered an investigation into a data breach involving the email addresses of dozens of Afghan interpreters who worked for British forces.\r\nMore than 250 people seeki… [+626 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC Sport",
+      "title":"Beckham's son makes pro debut in US",
+      "description":"A player named Beckham was back on the football pitch on Sunday - but it wasn't David who was drawing in the crowds in the US, it was his son, Romeo.",
+      "url":"http://www.bbc.co.uk/sport/football/58621611",
+      "urlToImage":"https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/106C8/production/_120627276_beckhams.jpg",
+      "publishedAt":"2021-09-20T17:52:29.3007001Z",
+      "content":"Romeo Beckham (centre) played alongside Phil Neville's son Harvey (left) during his debut for Fort Lauderdale on Sunday\r\nA player named Beckham on the right wing, drawing in football fans in the US -… [+1651 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Princess Beatrice gives birth to a girl",
+      "description":"The princess and her daughter are \"doing well\" and the Queen is \"delighted\", Buckingham Palace says.",
+      "url":"http://www.bbc.co.uk/news/uk-58627115",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/26A2/production/_110809890_beapa.jpg",
+      "publishedAt":"2021-09-20T17:37:26.2879148Z",
+      "content":"By Joseph LeeBBC News\r\nimage source, Getty Images\r\nimage captionThe couple were married in a private ceremony last year\r\nPrincess Beatrice and her husband Edoardo Mapelli Mozzi have welcomed a baby g… [+2181 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Lava destroys Canary Island homes",
+      "description":"A volcanic eruption on the Spanish island of La Palma has demolished homes and caused evacuations.",
+      "url":"http://www.bbc.co.uk/news/world-europe-58625781",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/78FC/production/_120627903_hi070740782-1.jpg",
+      "publishedAt":"2021-09-20T17:22:22.3424473Z",
+      "content":"A volcanic eruption from the Cumbre Vieja volcano has caused lava flows on the Spanish island of La Palma since Sunday. \r\nAbout 5,000 residents have been forced to evacuate.\r\nLocal officials said abo… [+40 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Afghanistan: Fighting off hunger under the Taliban",
+      "description":"For most Afghans staving off starvation is the biggest challenge since the Taliban returned to power.",
+      "url":"http://www.bbc.co.uk/news/world-asia-58624998",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/B97A/production/_120628474_hayatkhan.png",
+      "publishedAt":"2021-09-20T16:52:25.0065693Z",
+      "content":"By Jeremy BowenBBC News, Kabul\r\nimage captionMost Afghans are now trying to feed themselves and their children after the economy collapsed\r\nKabul is a city still waiting for its new life to take shap… [+5733 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Gabby Petito: FBI searches fiancé Brian Laundrie's home",
+      "description":"Police consider Brian Laundrie a person of interest, but have not charged him with a crime.",
+      "url":"http://www.bbc.co.uk/news/world-us-canada-58629194",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/14C83/production/_120632158_hi070695108.jpg",
+      "publishedAt":"2021-09-20T15:52:23.4120792Z",
+      "content":"image captionBrian Laundrie and Gabby Petito\r\nThe FBI has begun searching the Florida home of Brian Laundrie, fiancé to Gabby Petito, the 22-year-old missing New York woman now believed to be dead.\r\n… [+585 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Covid: US opens up to fully vaccinated EU and UK passengers",
+      "description":"The move answers a major demand from European allies at a time of strained diplomatic relations.",
+      "url":"http://www.bbc.co.uk/news/world-us-canada-58628491",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/13955/production/_120631208_gettyimages-1132943643-1.jpg",
+      "publishedAt":"2021-09-20T14:52:26.9157875Z",
+      "content":"The US is relaxing travel restrictions for passengers from the UK and European Union, ending an 18-month ban.\r\nFrom November, passengers will be allowed to travel to the US if they are fully vaccinat… [+1878 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Russia shooting: Gunman kills several at Perm University",
+      "description":"The attacker is said to have walked on to the university campus on Monday morning and started shooting",
+      "url":"http://www.bbc.co.uk/news/world-europe-58623160",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/15D62/production/_120624498_570082d2-0c4e-4da7-97a1-e79c56e7ca61.jpg",
+      "publishedAt":"2021-09-20T08:22:25.1995081Z",
+      "content":"Several people have been killed when a gunman opened fire at a university in the Russian city of Perm, reports say. \r\nThe assailant walked on to the campus on Monday morning and started shooting. \r\nS… [+498 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Canada election: What you need to know about the campaign",
+      "description":"Canadians are voting on Monday and Justin Trudeau's party faces a stiff challenge to retain power.",
+      "url":"http://www.bbc.co.uk/news/world-us-canada-58573882",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/0066/production/_120620100_gettyimages-1177435074.jpg",
+      "publishedAt":"2021-09-20T01:22:25.4408516Z",
+      "content":"By Jessica MurphyBBC News, Toronto\r\nimage source, Getty Images\r\nCanadians are going to the polls on Monday to vote in an early general election. Can Prime Minister Justin Trudeau manage to win his so… [+6063 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"BBC News",
+      "title":"Emmy Awards return with in-person ceremony in Los Angeles",
+      "description":"Ted Lasso, The Crown and The Queen's Gambit are among the big nominees this year.",
+      "url":"http://www.bbc.co.uk/news/entertainment-arts-58620247",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/4288/production/_120623071_hannahw.jpg",
+      "publishedAt":"2021-09-20T00:52:18.1202049Z",
+      "content":"By Steven McIntoshEntertainment reporter\r\nimage captionTed Lasso star Hannah Waddingham was named best comedy actress\r\nApple comedy Ted Lasso has become one of the big winners at the Emmy Awards, whi… [+9203 chars]"
+    }
+  ]
+}
