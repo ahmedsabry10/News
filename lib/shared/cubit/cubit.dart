@@ -47,26 +47,30 @@ class NewCubit extends Cubit<NewsStates>{
     ScienceScreen(),
   ];
   List <dynamic> business=[];
-  void getBusiness(){
+  void getBusiness() {
     emit(NewsGetBusinessLoadingStates());
-    DioHelper.getData(
-        url: 'v2/top-headlines',
-        query:
-        {
-          'country':'eg',
-          'category':'business',
-          'apiKey':'514602fe835b4da38c4b7895e731e15e',
-        }
-    ).then((value){
-      business=value.data['articles'];
-      print(business[0]['titles']);
+    if (business.length == 0) {
+      DioHelper.getData(
+          url: 'v2/top-headlines',
+          query:
+          {
+            'country': 'eg',
+            'category': 'business',
+            'apiKey': '514602fe835b4da38c4b7895e731e15e',
+          }
+      ).then((value) {
+        business = value.data['articles'];
+        print(business[0]['titles']);
+        emit(NewsGetBusinessSuccessStates());
+      }).catchError((error) {
+        print(error.toString());
+        emit(NewsGetBusinessErrorStates(error.toString()));
+      });
+    }
+    else{
       emit(NewsGetBusinessSuccessStates());
-    }).catchError((error){
-      print(error.toString());
-      emit(NewsGetBusinessErrorStates(error.toString()));
-    });
+    }
   }
-
 
   List <dynamic> sports =[];
   void getSports (){

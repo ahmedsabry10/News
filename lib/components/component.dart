@@ -109,7 +109,7 @@ Widget articleBuilder(list ,context)=>ConditionalBuilder(
     physics: BouncingScrollPhysics(),
     itemBuilder: (context, index) => buildArticleItem(list[index],context),
     separatorBuilder: (context, index) => myDivider(),
-    itemCount: 10,
+    itemCount: list.length,
   ),
   fallback: (context)=> Center(child: CircularProgressIndicator()),
 );
